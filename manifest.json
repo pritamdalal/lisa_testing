@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "locale": "en_US.UTF-8",
+  "metadata": {
+    "appmode": "jupyter-static",
+    "entrypoint": "test_deploy.ipynb"
+  },
+  "python": {
+    "version": "3.10.4",
+    "package_manager": {
+      "name": "pip",
+      "version": "22.3",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "test_deploy.ipynb": {
+      "checksum": "5d02f50da70803afa46e67b9c04dfd8c"
+    },
+    "requirements.txt": {
+      "checksum": "81fdf5e4b758f099f99f5b1d7da36b3a"
+    }
+  }
+}
